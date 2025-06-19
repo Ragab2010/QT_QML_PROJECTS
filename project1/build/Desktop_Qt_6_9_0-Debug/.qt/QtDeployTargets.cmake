@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appproject1_FILE /home/ragab/QT_GUI/project1/build/Desktop_Qt_6_9_0-Debug/appproject1)
+set(__QT_DEPLOY_TARGET_appproject1_TYPE EXECUTABLE)

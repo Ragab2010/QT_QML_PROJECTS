@@ -1,0 +1,6 @@
+--resource
+/home/ragab/QT_GUI/project1/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_project1.qrc
+--resource
+/home/ragab/QT_GUI/project1/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/appproject1_raw_qml_0.qrc
+/qt/qml/project1/Main.qml
+/qt/qml/project1/MyHoverButton.qml

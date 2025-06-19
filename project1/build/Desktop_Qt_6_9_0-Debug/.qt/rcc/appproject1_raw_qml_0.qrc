@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/project1/">
+    <file alias="Main.qml">/home/ragab/QT_GUI/project1/Main.qml</file>
+    <file alias="MyHoverButton.qml">/home/ragab/QT_GUI/project1/MyHoverButton.qml</file>
+    <file alias="resource.qrc">/home/ragab/QT_GUI/project1/resource.qrc</file>
+  </qresource>
+</RCC>
+

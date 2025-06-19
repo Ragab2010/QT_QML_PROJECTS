@@ -1,0 +1,6 @@
+module project1
+typeinfo appproject1.qmltypes
+prefer :/qt/qml/project1/
+Main 1.0 Main.qml
+MyHoverButton 1.0 MyHoverButton.qml
+
