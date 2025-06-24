@@ -56,6 +56,14 @@ The repository is organized as follows:
 ![Project 1 Demo](projects_GIF/project7.gif)
 
 
+
+##
+## Project 8: 
+
+**Demo**:  
+![Project 1 Demo](projects_GIF/project8.gif)
+
+
 ##
 ## Contributing
 
