@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appdelayButton_FILE /home/ragab/QT_GUI/delayButton/build/Desktop_Qt_6_9_0-Debug/appdelayButton)
+set(__QT_DEPLOY_TARGET_appdelayButton_TYPE EXECUTABLE)

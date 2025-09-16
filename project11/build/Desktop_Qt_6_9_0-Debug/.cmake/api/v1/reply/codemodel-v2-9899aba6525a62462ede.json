@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-052dd41fbe4f30c74596.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "delayButton",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-3362f220f6397cecdf97.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-8f016a089c1cec9f7f46.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-ac1c72e8a34c6bafbab2.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-48fccdd62d9428f72633.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-d03676ca3f149588977e.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdelayButton::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdelayButton-Debug-fb9514ef0af9ef23ffa3.json",
+					"name" : "appdelayButton",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdelayButton_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdelayButton_autogen-Debug-96fadfe073b70d16b3c4.json",
+					"name" : "appdelayButton_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdelayButton_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdelayButton_autogen_timestamp_deps-Debug-fcc123455025743e9f33.json",
+					"name" : "appdelayButton_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdelayButton_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdelayButton_copy_qml-Debug-5ec6cebbaad653ff58dc.json",
+					"name" : "appdelayButton_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdelayButton_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdelayButton_copy_res-Debug-0afe0fb0cb0834006194.json",
+					"name" : "appdelayButton_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdelayButton_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdelayButton_qmlimportscan-Debug-bd237d0b780e39600a6e.json",
+					"name" : "appdelayButton_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdelayButton_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdelayButton_qmllint-Debug-474a144dca21c9dfa84e.json",
+					"name" : "appdelayButton_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdelayButton_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdelayButton_qmllint_json-Debug-a451e06b3fae21267457.json",
+					"name" : "appdelayButton_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdelayButton_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdelayButton_qmllint_module-Debug-4fdd1b838e9b6753fd32.json",
+					"name" : "appdelayButton_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdelayButton_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdelayButton_qmltyperegistration-Debug-776fe30e92d761a6754a.json",
+					"name" : "appdelayButton_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appdelayButton_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appdelayButton_aotstats_target-Debug-2c6abba8a744ae3ca156.json",
+					"name" : "module_appdelayButton_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ragab/QT_GUI/delayButton/build/Desktop_Qt_6_9_0-Debug",
+		"source" : "/home/ragab/QT_GUI/delayButton"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appmessagedialog_FILE /home/ragab/QT_GUI/messagedialog/build/Desktop_Qt_6_9_0-Debug/appmessagedialog)
+set(__QT_DEPLOY_TARGET_appmessagedialog_TYPE EXECUTABLE)

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/login">/home/ragab/QT_GUI/login/build/Desktop_Qt_6_9_0-Debug/login</file>
+
+  </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+module slider
+typeinfo appslider.qmltypes
+prefer :/qt/qml/slider/
+Main 1.0 Main.qml
+

@@ -1,0 +1,44 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"horizontalCenter\".",
+                        "functionName": "horizontalCenter",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 294,
+                        "errorMessage": "",
+                        "functionName": "onAccepted",
+                        "line": 31
+                    }
+                ],
+                "filepath": "/home/ragab/QT_GUI/colorDialog/Main.qml"
+            }
+        ],
+        "moduleId": "colorDialog(appcolorDialog)"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 12,
+                        "durationMicroseconds": 118,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 5
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 12,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 6
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "Cannot generate efficient code for lookup of (component in /home/ragab/QT_GUI/send_signal_between_component/Notifier.qml)::notify(...) (stored as QJSValue)",
+                        "functionName": "onTargetChanged",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot access value for name count",
+                        "functionName": "text",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 203,
+                        "errorMessage": "Cannot access value for name count",
+                        "functionName": "onClicked",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 33
+                    }
+                ],
+                "filepath": "/home/ragab/QT_GUI/send_signal_between_component/Notifier.qml"
+            }
+        ],
+        "moduleId": "send_signal_between_component(appsend_signal_between_component)"
+    }
+]

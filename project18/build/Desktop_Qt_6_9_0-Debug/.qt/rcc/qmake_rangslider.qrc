@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/rangslider">
+    <file alias="qmldir">/home/ragab/QT_GUI/rangslider/build/Desktop_Qt_6_9_0-Debug/rangslider/qmldir</file>
+  </qresource>
+</RCC>
+

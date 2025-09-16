@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/colorDialog">/home/ragab/QT_GUI/colorDialog/build/Desktop_Qt_6_9_0-Debug/colorDialog</file>
+
+  </qresource>
+</RCC>

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appsend_signal_between_component_FILE /home/ragab/QT_GUI/send_signal_between_component/build/Desktop_Qt_6_9_0-Debug/appsend_signal_between_component)
+set(__QT_DEPLOY_TARGET_appsend_signal_between_component_TYPE EXECUTABLE)

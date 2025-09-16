@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/dial/">
+    <file alias="Main.qml">/home/ragab/QT_GUI/dial/Main.qml</file>
+  </qresource>
+</RCC>
+

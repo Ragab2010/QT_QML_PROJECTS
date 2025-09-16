@@ -1,0 +1,14 @@
+-rootPath
+/home/ragab/QT_GUI/Decoration_and_Sections
+-cmake-output
+-output-file
+/home/ragab/QT_GUI/Decoration_and_Sections/build/Desktop_Qt_6_9_0-Debug/.qt/qml_imports/appDecoration_and_Sections_build.cmake
+-importPath
+/home/ragab/QT_GUI/Decoration_and_Sections/build/Desktop_Qt_6_9_0-Debug/Decoration_and_Sections
+-importPath
+/home/ragab/QT_GUI/Decoration_and_Sections/build/Desktop_Qt_6_9_0-Debug
+-importPath
+/home/ragab/Qt/6.9.0/gcc_64/qml
+-qrcFiles
+/home/ragab/QT_GUI/Decoration_and_Sections/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_Decoration_and_Sections.qrc
+/home/ragab/QT_GUI/Decoration_and_Sections/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/appDecoration_and_Sections_raw_qml_0.qrc

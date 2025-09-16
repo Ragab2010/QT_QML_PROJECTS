@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/delayButton">
+    <file alias="qmldir">/home/ragab/QT_GUI/delayButton/build/Desktop_Qt_6_9_0-Debug/delayButton/qmldir</file>
+  </qresource>
+</RCC>
+

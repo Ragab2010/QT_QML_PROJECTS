@@ -1,0 +1,5 @@
+module page_tabBar
+typeinfo apppage_tabBar.qmltypes
+prefer :/qt/qml/page_tabBar/
+Main 1.0 Main.qml
+

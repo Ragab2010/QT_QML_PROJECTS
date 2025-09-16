@@ -1,0 +1,84 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"horizontalCenter\".",
+                        "functionName": "horizontalCenter",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 144,
+                        "errorMessage": "",
+                        "functionName": "onAccepted",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "",
+                        "functionName": "onRejected",
+                        "line": 36
+                    }
+                ],
+                "filepath": "/home/ragab/QT_GUI/fontdialog/Main.qml"
+            }
+        ],
+        "moduleId": "fontdialog(appfontdialog)"
+    }
+]

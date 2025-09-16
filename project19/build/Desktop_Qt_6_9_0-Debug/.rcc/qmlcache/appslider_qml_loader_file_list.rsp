@@ -1,0 +1,5 @@
+--resource
+/home/ragab/QT_GUI/slider/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_slider.qrc
+--resource
+/home/ragab/QT_GUI/slider/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/appslider_raw_qml_0.qrc
+/qt/qml/slider/Main.qml

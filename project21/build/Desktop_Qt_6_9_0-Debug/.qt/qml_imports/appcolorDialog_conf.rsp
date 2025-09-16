@@ -1,0 +1,14 @@
+-rootPath
+/home/ragab/QT_GUI/colorDialog
+-cmake-output
+-output-file
+/home/ragab/QT_GUI/colorDialog/build/Desktop_Qt_6_9_0-Debug/.qt/qml_imports/appcolorDialog_conf.cmake
+-importPath
+/home/ragab/QT_GUI/colorDialog/build/Desktop_Qt_6_9_0-Debug/colorDialog
+-importPath
+/home/ragab/QT_GUI/colorDialog/build/Desktop_Qt_6_9_0-Debug
+-importPath
+/home/ragab/Qt/6.9.0/gcc_64/qml
+-qrcFiles
+/home/ragab/QT_GUI/colorDialog/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_colorDialog.qrc
+/home/ragab/QT_GUI/colorDialog/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/appcolorDialog_raw_qml_0.qrc

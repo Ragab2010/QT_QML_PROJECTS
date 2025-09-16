@@ -1,0 +1,5 @@
+--resource
+/home/ragab/QT_GUI/page_tabBar/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_page_tabBar.qrc
+--resource
+/home/ragab/QT_GUI/page_tabBar/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/apppage_tabBar_raw_qml_0.qrc
+/qt/qml/page_tabBar/Main.qml

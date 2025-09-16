@@ -1,0 +1,7 @@
+--resource
+/home/ragab/QT_GUI/send_signal_between_component/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_send_signal_between_component.qrc
+--resource
+/home/ragab/QT_GUI/send_signal_between_component/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/appsend_signal_between_component_raw_qml_0.qrc
+/qt/qml/send_signal_between_component/Main.qml
+/qt/qml/send_signal_between_component/Notifier.qml
+/qt/qml/send_signal_between_component/Receiver.qml

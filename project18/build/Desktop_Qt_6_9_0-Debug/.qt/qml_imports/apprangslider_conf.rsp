@@ -1,0 +1,14 @@
+-rootPath
+/home/ragab/QT_GUI/rangslider
+-cmake-output
+-output-file
+/home/ragab/QT_GUI/rangslider/build/Desktop_Qt_6_9_0-Debug/.qt/qml_imports/apprangslider_conf.cmake
+-importPath
+/home/ragab/QT_GUI/rangslider/build/Desktop_Qt_6_9_0-Debug/rangslider
+-importPath
+/home/ragab/QT_GUI/rangslider/build/Desktop_Qt_6_9_0-Debug
+-importPath
+/home/ragab/Qt/6.9.0/gcc_64/qml
+-qrcFiles
+/home/ragab/QT_GUI/rangslider/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_rangslider.qrc
+/home/ragab/QT_GUI/rangslider/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/apprangslider_raw_qml_0.qrc

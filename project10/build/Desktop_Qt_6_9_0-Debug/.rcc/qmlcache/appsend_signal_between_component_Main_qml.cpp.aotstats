@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 149,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 144,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 14
+                    }
+                ],
+                "filepath": "/home/ragab/QT_GUI/send_signal_between_component/Main.qml"
+            }
+        ],
+        "moduleId": "send_signal_between_component(appsend_signal_between_component)"
+    }
+]

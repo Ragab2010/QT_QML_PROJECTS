@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/login/">
+    <file alias="Main.qml">/home/ragab/QT_GUI/login/Main.qml</file>
+    <file alias="Login.qml">/home/ragab/QT_GUI/login/Login.qml</file>
+  </qresource>
+</RCC>
+

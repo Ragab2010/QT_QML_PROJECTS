@@ -1,0 +1,14 @@
+-rootPath
+/home/ragab/QT_GUI/page_tabBar
+-cmake-output
+-output-file
+/home/ragab/QT_GUI/page_tabBar/build/Desktop_Qt_6_9_0-Debug/.qt/qml_imports/apppage_tabBar_build.cmake
+-importPath
+/home/ragab/QT_GUI/page_tabBar/build/Desktop_Qt_6_9_0-Debug/page_tabBar
+-importPath
+/home/ragab/QT_GUI/page_tabBar/build/Desktop_Qt_6_9_0-Debug
+-importPath
+/home/ragab/Qt/6.9.0/gcc_64/qml
+-qrcFiles
+/home/ragab/QT_GUI/page_tabBar/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_page_tabBar.qrc
+/home/ragab/QT_GUI/page_tabBar/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/apppage_tabBar_raw_qml_0.qrc

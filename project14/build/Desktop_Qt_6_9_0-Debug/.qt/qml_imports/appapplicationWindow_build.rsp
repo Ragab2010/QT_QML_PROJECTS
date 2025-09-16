@@ -1,0 +1,14 @@
+-rootPath
+/home/ragab/QT_GUI/applicationWindow
+-cmake-output
+-output-file
+/home/ragab/QT_GUI/applicationWindow/build/Desktop_Qt_6_9_0-Debug/.qt/qml_imports/appapplicationWindow_build.cmake
+-importPath
+/home/ragab/QT_GUI/applicationWindow/build/Desktop_Qt_6_9_0-Debug/applicationWindow
+-importPath
+/home/ragab/QT_GUI/applicationWindow/build/Desktop_Qt_6_9_0-Debug
+-importPath
+/home/ragab/Qt/6.9.0/gcc_64/qml
+-qrcFiles
+/home/ragab/QT_GUI/applicationWindow/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_applicationWindow.qrc
+/home/ragab/QT_GUI/applicationWindow/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/appapplicationWindow_raw_qml_0.qrc

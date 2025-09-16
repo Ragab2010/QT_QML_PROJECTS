@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/combobox">
+    <file alias="qmldir">/home/ragab/QT_GUI/combobox/build/Desktop_Qt_6_9_0-Debug/combobox/qmldir</file>
+  </qresource>
+</RCC>
+

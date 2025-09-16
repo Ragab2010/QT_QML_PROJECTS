@@ -1,0 +1,14 @@
+-rootPath
+/home/ragab/QT_GUI/messagedialog
+-cmake-output
+-output-file
+/home/ragab/QT_GUI/messagedialog/build/Desktop_Qt_6_9_0-Debug/.qt/qml_imports/appmessagedialog_build.cmake
+-importPath
+/home/ragab/QT_GUI/messagedialog/build/Desktop_Qt_6_9_0-Debug/messagedialog
+-importPath
+/home/ragab/QT_GUI/messagedialog/build/Desktop_Qt_6_9_0-Debug
+-importPath
+/home/ragab/Qt/6.9.0/gcc_64/qml
+-qrcFiles
+/home/ragab/QT_GUI/messagedialog/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_messagedialog.qrc
+/home/ragab/QT_GUI/messagedialog/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/appmessagedialog_raw_qml_0.qrc

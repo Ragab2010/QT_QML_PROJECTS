@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/fontdialog/">
+    <file alias="Main.qml">/home/ragab/QT_GUI/fontdialog/Main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,44 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"wrapMode\".",
+                        "functionName": "wrapMode",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"activated\".",
+                        "functionName": "onActivated",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"progressChanged\".",
+                        "functionName": "onProgressChanged",
+                        "line": 28
+                    }
+                ],
+                "filepath": "/home/ragab/QT_GUI/delayButton/Main.qml"
+            }
+        ],
+        "moduleId": "delayButton(appdelayButton)"
+    }
+]

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appcolorDialog_FILE /home/ragab/QT_GUI/colorDialog/build/Desktop_Qt_6_9_0-Debug/appcolorDialog)
+set(__QT_DEPLOY_TARGET_appcolorDialog_TYPE EXECUTABLE)

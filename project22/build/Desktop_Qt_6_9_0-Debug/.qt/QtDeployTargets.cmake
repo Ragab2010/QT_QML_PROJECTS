@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appcombobox_FILE /home/ragab/QT_GUI/combobox/build/Desktop_Qt_6_9_0-Debug/appcombobox)
+set(__QT_DEPLOY_TARGET_appcombobox_TYPE EXECUTABLE)

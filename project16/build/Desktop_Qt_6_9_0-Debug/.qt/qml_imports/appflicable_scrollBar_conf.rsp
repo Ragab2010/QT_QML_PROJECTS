@@ -1,0 +1,14 @@
+-rootPath
+/home/ragab/QT_GUI/flicable_scrollBar
+-cmake-output
+-output-file
+/home/ragab/QT_GUI/flicable_scrollBar/build/Desktop_Qt_6_9_0-Debug/.qt/qml_imports/appflicable_scrollBar_conf.cmake
+-importPath
+/home/ragab/QT_GUI/flicable_scrollBar/build/Desktop_Qt_6_9_0-Debug/flicable_scrollBar
+-importPath
+/home/ragab/QT_GUI/flicable_scrollBar/build/Desktop_Qt_6_9_0-Debug
+-importPath
+/home/ragab/Qt/6.9.0/gcc_64/qml
+-qrcFiles
+/home/ragab/QT_GUI/flicable_scrollBar/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_flicable_scrollBar.qrc
+/home/ragab/QT_GUI/flicable_scrollBar/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/appflicable_scrollBar_raw_qml_0.qrc

@@ -1,0 +1,7 @@
+module send_signal_between_component
+typeinfo appsend_signal_between_component.qmltypes
+prefer :/qt/qml/send_signal_between_component/
+Main 1.0 Main.qml
+Notifier 1.0 Notifier.qml
+Receiver 1.0 Receiver.qml
+

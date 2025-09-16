@@ -1,0 +1,5 @@
+module colorDialog
+typeinfo appcolorDialog.qmltypes
+prefer :/qt/qml/colorDialog/
+Main 1.0 Main.qml
+

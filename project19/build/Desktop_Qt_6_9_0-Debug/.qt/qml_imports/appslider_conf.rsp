@@ -1,0 +1,14 @@
+-rootPath
+/home/ragab/QT_GUI/slider
+-cmake-output
+-output-file
+/home/ragab/QT_GUI/slider/build/Desktop_Qt_6_9_0-Debug/.qt/qml_imports/appslider_conf.cmake
+-importPath
+/home/ragab/QT_GUI/slider/build/Desktop_Qt_6_9_0-Debug/slider
+-importPath
+/home/ragab/QT_GUI/slider/build/Desktop_Qt_6_9_0-Debug
+-importPath
+/home/ragab/Qt/6.9.0/gcc_64/qml
+-qrcFiles
+/home/ragab/QT_GUI/slider/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_slider.qrc
+/home/ragab/QT_GUI/slider/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/appslider_raw_qml_0.qrc

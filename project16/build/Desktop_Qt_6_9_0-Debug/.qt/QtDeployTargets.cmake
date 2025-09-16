@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appflicable_scrollBar_FILE /home/ragab/QT_GUI/flicable_scrollBar/build/Desktop_Qt_6_9_0-Debug/appflicable_scrollBar)
+set(__QT_DEPLOY_TARGET_appflicable_scrollBar_TYPE EXECUTABLE)

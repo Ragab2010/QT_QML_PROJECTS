@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/send_signal_between_component/">
+    <file alias="Main.qml">/home/ragab/QT_GUI/send_signal_between_component/Main.qml</file>
+    <file alias="Notifier.qml">/home/ragab/QT_GUI/send_signal_between_component/Notifier.qml</file>
+    <file alias="Receiver.qml">/home/ragab/QT_GUI/send_signal_between_component/Receiver.qml</file>
+  </qresource>
+</RCC>
+

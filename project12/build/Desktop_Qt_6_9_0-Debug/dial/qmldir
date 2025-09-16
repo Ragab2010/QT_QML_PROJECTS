@@ -1,0 +1,5 @@
+module dial
+typeinfo appdial.qmltypes
+prefer :/qt/qml/dial/
+Main 1.0 Main.qml
+

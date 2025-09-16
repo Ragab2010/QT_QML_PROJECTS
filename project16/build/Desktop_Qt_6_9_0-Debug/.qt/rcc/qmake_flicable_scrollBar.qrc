@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/flicable_scrollBar">
+    <file alias="qmldir">/home/ragab/QT_GUI/flicable_scrollBar/build/Desktop_Qt_6_9_0-Debug/flicable_scrollBar/qmldir</file>
+  </qresource>
+</RCC>
+

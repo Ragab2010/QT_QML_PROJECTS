@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/applicationWindow">/home/ragab/QT_GUI/applicationWindow/build/Desktop_Qt_6_9_0-Debug/applicationWindow</file>
+
+  </qresource>
+</RCC>

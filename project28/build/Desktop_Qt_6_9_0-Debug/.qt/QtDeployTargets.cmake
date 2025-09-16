@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appDecoration_and_Sections_FILE /home/ragab/QT_GUI/Decoration_and_Sections/build/Desktop_Qt_6_9_0-Debug/appDecoration_and_Sections)
+set(__QT_DEPLOY_TARGET_appDecoration_and_Sections_TYPE EXECUTABLE)

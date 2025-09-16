@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/Drawer">
+    <file alias="qmldir">/home/ragab/QT_GUI/Drawer/build/Desktop_Qt_6_9_0-Debug/Drawer/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,52 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 12,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 5
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 12,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 6
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "receiveInfo",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot access value for name recCount",
+                        "functionName": "text",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 23
+                    }
+                ],
+                "filepath": "/home/ragab/QT_GUI/send_signal_between_component/Receiver.qml"
+            }
+        ],
+        "moduleId": "send_signal_between_component(appsend_signal_between_component)"
+    }
+]

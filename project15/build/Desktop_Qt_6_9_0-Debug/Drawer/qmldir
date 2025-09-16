@@ -1,0 +1,5 @@
+module Drawer
+typeinfo appDrawer.qmltypes
+prefer :/Drawer/
+Main 1.0 Main.qml
+

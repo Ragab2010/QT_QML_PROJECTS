@@ -1,0 +1,5 @@
+module fontdialog
+typeinfo appfontdialog.qmltypes
+prefer :/qt/qml/fontdialog/
+Main 1.0 Main.qml
+

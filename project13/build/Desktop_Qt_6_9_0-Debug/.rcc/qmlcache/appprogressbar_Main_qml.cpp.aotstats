@@ -1,0 +1,92 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"value\".",
+                        "functionName": "value",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"value\".",
+                        "functionName": "value",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: dialId",
+                        "functionName": "target",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 56
+                    }
+                ],
+                "filepath": "/home/ragab/QT_GUI/progressbar/Main.qml"
+            }
+        ],
+        "moduleId": "progressbar(appprogressbar)"
+    }
+]

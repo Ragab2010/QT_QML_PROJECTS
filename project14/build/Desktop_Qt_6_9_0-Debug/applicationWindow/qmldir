@@ -1,0 +1,8 @@
+module applicationWindow
+typeinfo appapplicationWindow.qmltypes
+prefer :/applicationWindow/
+Main 1.0 Main.qml
+Page1 1.0 Page1.qml
+Page2 1.0 Page2.qml
+Page3 1.0 Page3.qml
+

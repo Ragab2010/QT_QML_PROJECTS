@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/callingslotcpp/">
+    <file alias="Main.qml">/home/ragab/QT_GUI/callingslotcpp/Main.qml</file>
+  </qresource>
+</RCC>
+

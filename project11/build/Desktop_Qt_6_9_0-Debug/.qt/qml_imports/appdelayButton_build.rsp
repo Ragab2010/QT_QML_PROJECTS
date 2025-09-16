@@ -1,0 +1,14 @@
+-rootPath
+/home/ragab/QT_GUI/delayButton
+-cmake-output
+-output-file
+/home/ragab/QT_GUI/delayButton/build/Desktop_Qt_6_9_0-Debug/.qt/qml_imports/appdelayButton_build.cmake
+-importPath
+/home/ragab/QT_GUI/delayButton/build/Desktop_Qt_6_9_0-Debug/delayButton
+-importPath
+/home/ragab/QT_GUI/delayButton/build/Desktop_Qt_6_9_0-Debug
+-importPath
+/home/ragab/Qt/6.9.0/gcc_64/qml
+-qrcFiles
+/home/ragab/QT_GUI/delayButton/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_delayButton.qrc
+/home/ragab/QT_GUI/delayButton/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/appdelayButton_raw_qml_0.qrc

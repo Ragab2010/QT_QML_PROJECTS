@@ -1,0 +1,5 @@
+module folderdialog
+typeinfo appfolderdialog.qmltypes
+prefer :/qt/qml/folderdialog/
+Main 1.0 Main.qml
+

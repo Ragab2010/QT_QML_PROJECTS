@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/send_signal_between_component">
+    <file alias="qmldir">/home/ragab/QT_GUI/send_signal_between_component/build/Desktop_Qt_6_9_0-Debug/send_signal_between_component/qmldir</file>
+  </qresource>
+</RCC>
+

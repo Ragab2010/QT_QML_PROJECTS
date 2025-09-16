@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot access value for name username",
+                        "functionName": "onLogin",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 9
+                    }
+                ],
+                "filepath": "/home/ragab/QT_GUI/login/Main.qml"
+            }
+        ],
+        "moduleId": "login(applogin)"
+    }
+]

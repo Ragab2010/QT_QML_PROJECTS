@@ -1,0 +1,14 @@
+-rootPath
+/home/ragab/QT_GUI/dial
+-cmake-output
+-output-file
+/home/ragab/QT_GUI/dial/build/Desktop_Qt_6_9_0-Debug/.qt/qml_imports/appdial_conf.cmake
+-importPath
+/home/ragab/QT_GUI/dial/build/Desktop_Qt_6_9_0-Debug/dial
+-importPath
+/home/ragab/QT_GUI/dial/build/Desktop_Qt_6_9_0-Debug
+-importPath
+/home/ragab/Qt/6.9.0/gcc_64/qml
+-qrcFiles
+/home/ragab/QT_GUI/dial/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_dial.qrc
+/home/ragab/QT_GUI/dial/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/appdial_raw_qml_0.qrc

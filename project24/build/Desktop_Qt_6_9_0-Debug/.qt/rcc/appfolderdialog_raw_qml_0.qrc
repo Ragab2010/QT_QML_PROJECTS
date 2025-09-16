@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/folderdialog/">
+    <file alias="Main.qml">/home/ragab/QT_GUI/folderdialog/Main.qml</file>
+  </qresource>
+</RCC>
+

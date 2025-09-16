@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appfontdialog_FILE /home/ragab/QT_GUI/fontdialog/build/Desktop_Qt_6_9_0-Debug/appfontdialog)
+set(__QT_DEPLOY_TARGET_appfontdialog_TYPE EXECUTABLE)

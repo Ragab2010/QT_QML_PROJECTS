@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appfolderdialog_FILE /home/ragab/QT_GUI/folderdialog/build/Desktop_Qt_6_9_0-Debug/appfolderdialog)
+set(__QT_DEPLOY_TARGET_appfolderdialog_TYPE EXECUTABLE)

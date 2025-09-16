@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="/applicationWindow/">
+    <file alias="Main.qml">/home/ragab/QT_GUI/applicationWindow/Main.qml</file>
+    <file alias="Page1.qml">/home/ragab/QT_GUI/applicationWindow/Page1.qml</file>
+    <file alias="Page2.qml">/home/ragab/QT_GUI/applicationWindow/Page2.qml</file>
+    <file alias="Page3.qml">/home/ragab/QT_GUI/applicationWindow/Page3.qml</file>
+    <file alias="images/copyIcon.png">/home/ragab/QT_GUI/applicationWindow/images/copyIcon.png</file>
+    <file alias="images/cutIcon.png">/home/ragab/QT_GUI/applicationWindow/images/cutIcon.png</file>
+    <file alias="images/info.png">/home/ragab/QT_GUI/applicationWindow/images/info.png</file>
+    <file alias="images/newFileIcon.png">/home/ragab/QT_GUI/applicationWindow/images/newFileIcon.png</file>
+    <file alias="images/openIcon.png">/home/ragab/QT_GUI/applicationWindow/images/openIcon.png</file>
+    <file alias="images/pasteIcon.png">/home/ragab/QT_GUI/applicationWindow/images/pasteIcon.png</file>
+    <file alias="images/quitIcon.png">/home/ragab/QT_GUI/applicationWindow/images/quitIcon.png</file>
+    <file alias="images/redoIcon.png">/home/ragab/QT_GUI/applicationWindow/images/redoIcon.png</file>
+    <file alias="images/saveAsIcon.png">/home/ragab/QT_GUI/applicationWindow/images/saveAsIcon.png</file>
+    <file alias="images/saveIcon.png">/home/ragab/QT_GUI/applicationWindow/images/saveIcon.png</file>
+    <file alias="images/undoIcon.png">/home/ragab/QT_GUI/applicationWindow/images/undoIcon.png</file>
+  </qresource>
+</RCC>
+

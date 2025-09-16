@@ -1,0 +1,14 @@
+-rootPath
+/home/ragab/QT_GUI/login
+-cmake-output
+-output-file
+/home/ragab/QT_GUI/login/build/Desktop_Qt_6_9_0-Debug/.qt/qml_imports/applogin_conf.cmake
+-importPath
+/home/ragab/QT_GUI/login/build/Desktop_Qt_6_9_0-Debug/login
+-importPath
+/home/ragab/QT_GUI/login/build/Desktop_Qt_6_9_0-Debug
+-importPath
+/home/ragab/Qt/6.9.0/gcc_64/qml
+-qrcFiles
+/home/ragab/QT_GUI/login/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_login.qrc
+/home/ragab/QT_GUI/login/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/applogin_raw_qml_0.qrc

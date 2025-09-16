@@ -1,0 +1,10 @@
+-I
+/home/ragab/QT_GUI/combobox/build/Desktop_Qt_6_9_0-Debug
+-I
+/home/ragab/Qt/6.9.0/gcc_64/qml
+--resource
+/home/ragab/QT_GUI/combobox/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_combobox.qrc
+--resource
+/home/ragab/QT_GUI/combobox/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/appcombobox_raw_qml_0.qrc
+--module
+combobox

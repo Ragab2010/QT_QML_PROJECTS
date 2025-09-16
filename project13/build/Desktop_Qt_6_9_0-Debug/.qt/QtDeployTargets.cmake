@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appprogressbar_FILE /home/ragab/QT_GUI/progressbar/build/Desktop_Qt_6_9_0-Debug/appprogressbar)
+set(__QT_DEPLOY_TARGET_appprogressbar_TYPE EXECUTABLE)

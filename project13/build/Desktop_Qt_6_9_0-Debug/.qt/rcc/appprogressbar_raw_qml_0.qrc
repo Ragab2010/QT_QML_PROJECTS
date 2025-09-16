@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/progressbar/">
+    <file alias="Main.qml">/home/ragab/QT_GUI/progressbar/Main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,6 @@
+--resource
+/home/ragab/QT_GUI/login/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_login.qrc
+--resource
+/home/ragab/QT_GUI/login/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/applogin_raw_qml_0.qrc
+/qt/qml/login/Main.qml
+/qt/qml/login/Login.qml

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/page_tabBar">
+    <file alias="qmldir">/home/ragab/QT_GUI/page_tabBar/build/Desktop_Qt_6_9_0-Debug/page_tabBar/qmldir</file>
+  </qresource>
+</RCC>
+

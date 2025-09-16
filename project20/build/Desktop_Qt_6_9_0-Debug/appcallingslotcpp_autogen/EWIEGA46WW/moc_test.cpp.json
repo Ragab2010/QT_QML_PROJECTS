@@ -1,0 +1,40 @@
+{
+    "classes": [
+        {
+            "className": "Test",
+            "lineNumber": 9,
+            "object": true,
+            "qualifiedClassName": "Test",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "data",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "notice",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "captureTime",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "test.h",
+    "outputRevision": 69
+}

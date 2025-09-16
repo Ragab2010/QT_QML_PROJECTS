@@ -1,0 +1,10 @@
+--bare
+-I
+/home/ragab/QT_GUI/flicable_scrollBar/build/Desktop_Qt_6_9_0-Debug
+-I
+/home/ragab/Qt/6.9.0/gcc_64/qml
+--resource
+/home/ragab/QT_GUI/flicable_scrollBar/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_flicable_scrollBar.qrc
+--resource
+/home/ragab/QT_GUI/flicable_scrollBar/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/appflicable_scrollBar_raw_qml_0.qrc
+/home/ragab/QT_GUI/flicable_scrollBar/Main.qml

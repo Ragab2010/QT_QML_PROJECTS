@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_apppage_tabBar_FILE /home/ragab/QT_GUI/page_tabBar/build/Desktop_Qt_6_9_0-Debug/apppage_tabBar)
+set(__QT_DEPLOY_TARGET_apppage_tabBar_TYPE EXECUTABLE)

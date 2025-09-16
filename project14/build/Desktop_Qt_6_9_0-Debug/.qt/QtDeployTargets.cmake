@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appapplicationWindow_FILE /home/ragab/QT_GUI/applicationWindow/build/Desktop_Qt_6_9_0-Debug/appapplicationWindow)
+set(__QT_DEPLOY_TARGET_appapplicationWindow_TYPE EXECUTABLE)

@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/Drawer/">
+    <file alias="Main.qml">/home/ragab/QT_GUI/Drawer/Main.qml</file>
+    <file alias="image/1.jpg">/home/ragab/QT_GUI/Drawer/image/1.jpg</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,6 @@
+module login
+typeinfo applogin.qmltypes
+prefer :/qt/qml/login/
+Main 1.0 Main.qml
+Login 1.0 Login.qml
+

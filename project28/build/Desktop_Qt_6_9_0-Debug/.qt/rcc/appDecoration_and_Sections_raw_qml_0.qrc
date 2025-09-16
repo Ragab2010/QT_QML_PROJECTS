@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Decoration_and_Sections/">
+    <file alias="Main.qml">/home/ragab/QT_GUI/Decoration_and_Sections/Main.qml</file>
+  </qresource>
+</RCC>
+

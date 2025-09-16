@@ -1,0 +1,5 @@
+module flicable_scrollBar
+typeinfo appflicable_scrollBar.qmltypes
+prefer :/qt/qml/flicable_scrollBar/
+Main 1.0 Main.qml
+

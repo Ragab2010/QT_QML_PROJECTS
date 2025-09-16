@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_apprangslider_FILE /home/ragab/QT_GUI/rangslider/build/Desktop_Qt_6_9_0-Debug/apprangslider)
+set(__QT_DEPLOY_TARGET_apprangslider_TYPE EXECUTABLE)

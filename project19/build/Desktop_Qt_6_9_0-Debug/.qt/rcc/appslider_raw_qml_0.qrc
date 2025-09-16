@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/slider/">
+    <file alias="Main.qml">/home/ragab/QT_GUI/slider/Main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,8 @@
+--resource
+/home/ragab/QT_GUI/applicationWindow/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_applicationWindow.qrc
+--resource
+/home/ragab/QT_GUI/applicationWindow/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/appapplicationWindow_raw_qml_0.qrc
+/applicationWindow/Main.qml
+/applicationWindow/Page1.qml
+/applicationWindow/Page2.qml
+/applicationWindow/Page3.qml

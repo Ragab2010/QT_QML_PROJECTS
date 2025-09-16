@@ -1,0 +1,12 @@
+--bare
+-I
+/home/ragab/QT_GUI/colorDialog/build/Desktop_Qt_6_9_0-Debug
+-I
+/home/ragab/Qt/6.9.0/gcc_64/qml
+--resource
+/home/ragab/QT_GUI/colorDialog/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_colorDialog.qrc
+--resource
+/home/ragab/QT_GUI/colorDialog/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/appcolorDialog_raw_qml_0.qrc
+/home/ragab/QT_GUI/colorDialog/Main.qml
+--json
+/home/ragab/QT_GUI/colorDialog/build/Desktop_Qt_6_9_0-Debug/appcolorDialog_qmllint.json

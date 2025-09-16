@@ -1,0 +1,12 @@
+--bare
+-I
+/home/ragab/QT_GUI/dial/build/Desktop_Qt_6_9_0-Debug
+-I
+/home/ragab/Qt/6.9.0/gcc_64/qml
+--resource
+/home/ragab/QT_GUI/dial/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_dial.qrc
+--resource
+/home/ragab/QT_GUI/dial/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/appdial_raw_qml_0.qrc
+/home/ragab/QT_GUI/dial/Main.qml
+--json
+/home/ragab/QT_GUI/dial/build/Desktop_Qt_6_9_0-Debug/appdial_qmllint.json

@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-036a934eb84808239791.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "dial",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-892f8537db3d1da29971.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-a55af11c0012849235bc.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-6a8fbbb2534d2faa676c.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-e557b25cf4b3293ecea3.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-5d7009e45a51fec79261.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdial-Debug-6b130ceda830dc44bc37.json",
+					"name" : "appdial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdial_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdial_autogen-Debug-d8630d8f93a8d0cb38fc.json",
+					"name" : "appdial_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdial_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdial_autogen_timestamp_deps-Debug-bfcbb3e5f40bf1a6996f.json",
+					"name" : "appdial_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdial_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdial_copy_qml-Debug-3822ec4581786443daae.json",
+					"name" : "appdial_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdial_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdial_copy_res-Debug-5214fe5a717a847ea201.json",
+					"name" : "appdial_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdial_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdial_qmlimportscan-Debug-c678f515382cb6d342b0.json",
+					"name" : "appdial_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdial_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdial_qmllint-Debug-81028a6f75aa2e35f731.json",
+					"name" : "appdial_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdial_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdial_qmllint_json-Debug-efa48ccaacbf24f70973.json",
+					"name" : "appdial_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdial_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdial_qmllint_module-Debug-dabe5bb0dfb45f6604d9.json",
+					"name" : "appdial_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdial_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdial_qmltyperegistration-Debug-4b7857164d58776adcc4.json",
+					"name" : "appdial_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appdial_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appdial_aotstats_target-Debug-6a9990f1317600917902.json",
+					"name" : "module_appdial_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ragab/QT_GUI/dial/build/Desktop_Qt_6_9_0-Debug",
+		"source" : "/home/ragab/QT_GUI/dial"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

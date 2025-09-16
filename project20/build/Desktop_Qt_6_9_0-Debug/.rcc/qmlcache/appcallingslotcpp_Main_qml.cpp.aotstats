@@ -1,0 +1,68 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 190,
+                        "errorMessage": "Cannot access value for name testing",
+                        "functionName": "onClicked",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name testing",
+                        "functionName": "target",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 10,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onNotice",
+                        "line": 41
+                    }
+                ],
+                "filepath": "/home/ragab/QT_GUI/callingslotcpp/Main.qml"
+            }
+        ],
+        "moduleId": "callingslotcpp(appcallingslotcpp)"
+    }
+]

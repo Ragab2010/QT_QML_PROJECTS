@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appcallingslotcpp_FILE /home/ragab/QT_GUI/callingslotcpp/build/Desktop_Qt_6_9_0-Debug/appcallingslotcpp)
+set(__QT_DEPLOY_TARGET_appcallingslotcpp_TYPE EXECUTABLE)
